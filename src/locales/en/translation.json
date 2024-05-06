@@ -1,0 +1,75 @@
+{
+	"title": "LVS1048",
+	"tableTitle": {
+		"at": "Built-up area",
+		"bk": "Building complex",
+		"bv": "Building unit",
+		"be": "Building element",
+		"bm": "Construction products",
+		"ba": "Construction equipment",
+		"pk": "Classification of occupations",
+		"bi": "Construction information",
+		"bp": "Construction process",
+		"pv": "Management"
+	},
+	"reservedRights": "2024 | All rights reserved.",
+
+	"questionsSectionTitle": "Frequently asked questions:",
+
+	"Classification": "Classification",
+	"Welcome": "Welcome",
+	"Search": "Search",
+	"About": "About",
+	"Download the tables": "Download the tables",
+	"Download older versions of the tables": "Download older versions of the tables",
+	"Unified construction classification": "Unified construction classification",
+	"Search the tables...": "Search the tables...",
+	"Browse the tables": "Browse the tables",
+	"published": "published",
+	"Under development": "Under development",
+	"Tabs": "Tabs",
+	"Results per page:": "Results per page:",
+	"Page": "Page",
+	"of": "of",
+	"Table": "Table",
+	"Code": "Code",
+	"Title": "Title",
+	"Hide All": "Hide All",
+	"Show All": "Show All",
+	"No results...": "No results...",
+
+	"team": {
+		"title": "Out small team behind our success",
+		"subtitle1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus.",
+		"subtitle2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"findUs": {
+		"title": "If you need to find us:",
+		"subtitle1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus.",
+		"subtitle2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"stayConnected": {
+		"title": "Stay connected",
+		"subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"suggestionForm": {
+		"title": "Drop us a line",
+		"subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+
+	"Name": "Name",
+	"Email": "Email",
+	"Message": "Message",
+	"Submit": "Submit",
+
+	"noRowsAreFound": "No rows are found, clear filters or try again later...",
+	"tableIsNotReady": "This table is not ready yet, please try again later...",
+	"searchByTitle": "Search by title...",
+	"rowTitle": "Row Details",
+	"level": "Level",
+
+	"footerLeft": "Web portal powered by",
+	"footerRight": "design",
+
+	"Description": "Description"
+}

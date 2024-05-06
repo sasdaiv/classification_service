@@ -1,0 +1,670 @@
+{
+	"payload": {
+		"filters": {
+			"level1": ["01", "03"],
+			"level2": ["00", "01", "03", "05", "07", "09", "11"],
+			"level3": [
+				"00",
+				"01",
+				"03",
+				"05",
+				"07",
+				"09",
+				"11",
+				"13",
+				"15",
+				"17",
+				"19",
+				"21",
+				"23",
+				"25",
+				"27",
+				"29",
+				"31"
+			]
+		},
+		"maxLevel": 3,
+		"tab": "BA"
+	},
+	"rows": [
+		{
+			"code": "BA_01_00_00",
+			"title": "1Būvniecības mehānismi\r",
+			"show": true,
+			"level": 1,
+			"level1": "01",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_01_00",
+			"title": "Būvniecības aprīkojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_01_01",
+			"title": "Biotualetes\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "01"
+		},
+		{
+			"code": "BA_01_01_03",
+			"title": "Būvgružu un atkritumu savākšanas aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "03"
+		},
+		{
+			"code": "BA_01_01_05",
+			"title": "Drošības aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "05"
+		},
+		{
+			"code": "BA_01_01_07",
+			"title": "Kāpņu torņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "07"
+		},
+		{
+			"code": "BA_01_01_09",
+			"title": "Mobilais žogs\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "09"
+		},
+		{
+			"code": "BA_01_01_11",
+			"title": "Moduļveida un noliktavu konteineri\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "11"
+		},
+		{
+			"code": "BA_01_01_13",
+			"title": "Pagaidu atbalsta sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "13"
+		},
+		{
+			"code": "BA_01_01_15",
+			"title": "Pārvietojamie torņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "15"
+		},
+		{
+			"code": "BA_01_01_17",
+			"title": "Piekļuves aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "17"
+		},
+		{
+			"code": "BA_01_01_19",
+			"title": "Sastatnes\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "19"
+		},
+		{
+			"code": "BA_01_01_21",
+			"title": "Trepes\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "21"
+		},
+		{
+			"code": "BA_01_01_23",
+			"title": "Tvertnes\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "23"
+		},
+		{
+			"code": "BA_01_01_25",
+			"title": "Cits būvniecības aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "25"
+		},
+		{
+			"code": "BA_01_03_00",
+			"title": "Būvniecības tehnika\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_03_01",
+			"title": "Betona tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "01"
+		},
+		{
+			"code": "BA_01_03_03",
+			"title": "Ceļu būves tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "03"
+		},
+		{
+			"code": "BA_01_03_05",
+			"title": "Ekskavatori\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "05"
+		},
+		{
+			"code": "BA_01_03_07",
+			"title": "Grunts pastiprināšanas tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "07"
+		},
+		{
+			"code": "BA_01_03_09",
+			"title": "Ģeoloģiskās izpētes tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "09"
+		},
+		{
+			"code": "BA_01_03_11",
+			"title": "Iekrāvēji un traktori\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "11"
+		},
+		{
+			"code": "BA_01_03_13",
+			"title": "Pacēlāji\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "13"
+		},
+		{
+			"code": "BA_01_03_15",
+			"title": "Speciālie pašizgāzēji\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "15"
+		},
+		{
+			"code": "BA_01_03_17",
+			"title": "Urbšanas tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "17"
+		},
+		{
+			"code": "BA_01_03_19",
+			"title": "Veltņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "19"
+		},
+		{
+			"code": "BA_01_03_21",
+			"title": "Zemes darbu tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "21"
+		},
+		{
+			"code": "BA_01_03_23",
+			"title": "Cita būvniecības tehnka\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "23"
+		},
+		{
+			"code": "BA_01_05_00",
+			"title": "Iekārtas\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_05_01",
+			"title": "Apgaismes iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "01"
+		},
+		{
+			"code": "BA_01_05_03",
+			"title": "Armatūras apstrādes iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "03"
+		},
+		{
+			"code": "BA_01_05_05",
+			"title": "Betonēšanas un betona apstrādes iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "05"
+		},
+		{
+			"code": "BA_01_05_07",
+			"title": "Blietēšanas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "07"
+		},
+		{
+			"code": "BA_01_05_09",
+			"title": "Celtņi, celšanas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "09"
+		},
+		{
+			"code": "BA_01_05_11",
+			"title": "Gruntsūdens pazemināšanas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "11"
+		},
+		{
+			"code": "BA_01_05_13",
+			"title": "Ģeneratori, elektrosadales centri, transformatori\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "13"
+		},
+		{
+			"code": "BA_01_05_15",
+			"title": "Kompresori\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "15"
+		},
+		{
+			"code": "BA_01_05_17",
+			"title": "Metināšanas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "17"
+		},
+		{
+			"code": "BA_01_05_19",
+			"title": "Mitruma separatori\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "19"
+		},
+		{
+			"code": "BA_01_05_21",
+			"title": "Sildītāji\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "21"
+		},
+		{
+			"code": "BA_01_05_23",
+			"title": "Sūkņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "23"
+		},
+		{
+			"code": "BA_01_05_25",
+			"title": "Špaktelēšanas un krāsošanas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "25"
+		},
+		{
+			"code": "BA_01_05_27",
+			"title": "Uzkopšanas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "27"
+		},
+		{
+			"code": "BA_01_05_29",
+			"title": "Ventilatori\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "29"
+		},
+		{
+			"code": "BA_01_05_31",
+			"title": "Citas iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "31"
+		},
+		{
+			"code": "BA_01_07_00",
+			"title": "Instrumenti\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_07_01",
+			"title": "Elektroinstrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "01"
+		},
+		{
+			"code": "BA_01_07_03",
+			"title": "Mehāniskie mērinstrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "03"
+		},
+		{
+			"code": "BA_01_07_05",
+			"title": "Rokas instrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "05"
+		},
+		{
+			"code": "BA_01_07_07",
+			"title": "Citi instrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "07"
+		},
+		{
+			"code": "BA_01_09_00",
+			"title": "Transportlīdzekļi\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_09_01",
+			"title": "Smagie kravas transportlīdzekļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "01"
+		},
+		{
+			"code": "BA_01_09_03",
+			"title": "Speciālie transportlīdzekļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "03"
+		},
+		{
+			"code": "BA_01_09_05",
+			"title": "Transportlīdzekļu piekabes\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "05"
+		},
+		{
+			"code": "BA_01_09_07",
+			"title": "Vieglie kravas transportlīdzekļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "07"
+		},
+		{
+			"code": "BA_01_09_09",
+			"title": "Vieglie transportlīdzekļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "09"
+		},
+		{
+			"code": "BA_01_09_11",
+			"title": "Citi transportlīdzekļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "11"
+		},
+		{
+			"code": "BA_01_11_00",
+			"title": "Dārza tehnika un instrumenti\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BA_01_11_01",
+			"title": "Dārza instrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "01"
+		},
+		{
+			"code": "BA_01_11_03",
+			"title": "Dārza tehnika \r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "03"
+		},
+		{
+			"code": "BA_03_00_00",
+			"title": "Informācijas tehnoloģiju rīki\r",
+			"show": true,
+			"level": 1,
+			"level1": "03",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BA_03_01_00",
+			"title": "Vadības un projektēšanas rīki\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BA_03_01_01",
+			"title": "Biroja tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "01",
+			"level3": "01"
+		},
+		{
+			"code": "BA_03_01_03",
+			"title": "Datorprogrammas\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "01",
+			"level3": "03"
+		},
+		{
+			"code": "BA_03_01_05",
+			"title": "Datortehika\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "01",
+			"level3": "05"
+		},
+		{
+			"code": "BA_03_01_07",
+			"title": "Citi vadības un projektēšanas rīki\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "01",
+			"level3": "07"
+		},
+		{
+			"code": "BA_03_03_00",
+			"title": "Būvniecības instrumenti\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BA_03_03_01",
+			"title": "Celtniecības mērinstrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "03",
+			"level3": "01"
+		},
+		{
+			"code": "BA_03_03_03",
+			"title": "Mašīnkotrole\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "03",
+			"level3": "03"
+		},
+		{
+			"code": "BA_03_03_05",
+			"title": "Mērniecības instrumenti\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "03",
+			"level3": "05"
+		},
+		{
+			"code": "BA_03_03_07",
+			"title": "Citi būvniecības informācijas tehnoloģiju rīki",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "03",
+			"level3": "07"
+		}
+	]
+}

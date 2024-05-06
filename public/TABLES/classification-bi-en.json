@@ -1,0 +1,942 @@
+{
+	"payload": {
+		"filters": {
+			"level1": ["01", "03", "05", "07", "09", "11", "13", "15", "17", "19"],
+			"level2": [
+				"00",
+				"01",
+				"03",
+				"05",
+				"07",
+				"09",
+				"11",
+				"13",
+				"15",
+				"17",
+				"19",
+				"21",
+				"23",
+				"25",
+				"27",
+				"29",
+				"31",
+				"33",
+				"35"
+			],
+			"level3": ["00", "01", "03", "05"]
+		},
+		"maxLevel": 3,
+		"tab": "BI"
+	},
+	"rows": [
+		{
+			"code": "BI_01_00_00",
+			"title": "Komunikācija\r",
+			"show": true,
+			"level": 1,
+			"level1": "01",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_01_00",
+			"title": "Iesniegumi (ISN)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_03_00",
+			"title": "Informācijas pieprasījumi (PPI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_05_00",
+			"title": "Paziņojumi (PAZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_07_00",
+			"title": "Preses relīze (PRE)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_09_00",
+			"title": "Prezentācijas (PRZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_11_00",
+			"title": "Sapulču protokoli (SPR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_13_00",
+			"title": "Sarakste (VST)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_01_15_00",
+			"title": "Cita ar komunikāciju saistītā informācija (KCI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "15",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_00_00",
+			"title": "Finanšu dokumenti\r",
+			"show": true,
+			"level": 1,
+			"level1": "03",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_01_00",
+			"title": "Finanšu akti (FAK)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_03_00",
+			"title": "Aojomu tabulas (BAJ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_05_00",
+			"title": "Budžets (BUD)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_07_00",
+			"title": "Izmaksu modelis (5D)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_09_00",
+			"title": "Piedāvājumi (PID)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_11_00",
+			"title": "Rēķini (REK)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_13_00",
+			"title": "Tāme (TAM)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_03_13_01",
+			"title": "Koptāme\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "13",
+			"level3": "01"
+		},
+		{
+			"code": "BI_03_13_03",
+			"title": "Kopsavilkums\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "13",
+			"level3": "03"
+		},
+		{
+			"code": "BI_03_13_05",
+			"title": "Lokālā tāme\r",
+			"show": true,
+			"level": 3,
+			"level1": "03",
+			"level2": "13",
+			"level3": "05"
+		},
+		{
+			"code": "BI_03_15_00",
+			"title": "Citi finanšu dokumenti (CFD)\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "15",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_00_00",
+			"title": "Būvniecības dokumentācija\r",
+			"show": true,
+			"level": 1,
+			"level1": "05",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_01_00",
+			"title": "Akti (BAK)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_03_00",
+			"title": "Animācijas (ANI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_05_00",
+			"title": "Aprēķini (APR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_07_00",
+			"title": "Atzinumi (ATZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_09_00",
+			"title": "Bildes (BLD)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_11_00",
+			"title": "Būvatļauja (BAT)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_13_00",
+			"title": "Būves Informatīvais Modelis (BIM)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_15_00",
+			"title": "Būvprojekts (BPR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "15",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_17_00",
+			"title": "Eksplikācijas (EKS)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "17",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_19_00",
+			"title": "Projektēšanas darba uzdevums (PDA)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "19",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_21_00",
+			"title": "Rasējumi (RAS)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "21",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_23_00",
+			"title": "Shēmas (SHE)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "23",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_25_00",
+			"title": "Skaidrojošais raksts (SKA)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "25",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_27_00",
+			"title": "Specifikācijas (IES)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "27",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_29_00",
+			"title": "Tehniskie noteikumi (TEN)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "29",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_31_00",
+			"title": "Ugunsdrošības pasākumu pārskats (UPP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "31",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_33_00",
+			"title": "Vizualizācijas (VIZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "33",
+			"level3": "00"
+		},
+		{
+			"code": "BI_05_35_00",
+			"title": "Cita būvniecības dokumentācija (CBD)\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "35",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_00_00",
+			"title": "Līgumiskā dokumentācija\r",
+			"show": true,
+			"level": 1,
+			"level1": "07",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_01_00",
+			"title": "Apliecinājumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_03_00",
+			"title": "Grafiks (LGR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_05_00",
+			"title": "Līgumi (LIG)\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_07_00",
+			"title": "Tāme (LTM)\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_09_00",
+			"title": "Vēstules (LVE)\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_11_00",
+			"title": "Vienošanās (VIE)\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_07_13_00",
+			"title": "Cita līgumiskā dokumentācija (CLD)\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_00_00",
+			"title": "Projekta plānošana\r",
+			"show": true,
+			"level": 1,
+			"level1": "09",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_01_00",
+			"title": "Atskaites (ATS)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_03_00",
+			"title": "Atskaites (ATS)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_05_00",
+			"title": "BIM Izpildes Plāns (BIP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_07_00",
+			"title": "Būvuzraudzības plans  (BUP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_09_00",
+			"title": "Darba Veikšanas Plāns (DVP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_11_00",
+			"title": "Galvenais Informācijas Piegādes Plāns (GIPP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_13_00",
+			"title": "Kalendārais grafiks (KGR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_15_00",
+			"title": "Pasūtītāja informācijas prasības (PIP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "15",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_17_00",
+			"title": "Procedūras (PRC)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "17",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_19_00",
+			"title": "Projektā izpildes plāns (PRP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "19",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_21_00",
+			"title": "Simulācijas (SIM)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "21",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_21_01",
+			"title": "Būvniecības simulācija (4D)\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "21",
+			"level3": "01"
+		},
+		{
+			"code": "BI_09_21_03",
+			"title": "Cita simulācija (SIC)\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "21",
+			"level3": "03"
+		},
+		{
+			"code": "BI_09_23_00",
+			"title": "Standarti (STA)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "23",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_25_00",
+			"title": "Stratēģija (STR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "25",
+			"level3": "00"
+		},
+		{
+			"code": "BI_09_27_00",
+			"title": "Cita projekta plānošanas informācija (CPI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "27",
+			"level3": "00"
+		},
+		{
+			"code": "BI_11_00_00",
+			"title": "Darba drošība\r",
+			"show": true,
+			"level": 1,
+			"level1": "11",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_11_01_00",
+			"title": "Darba drošība akti (AKT)\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_11_03_00",
+			"title": "Darba drošības žurnāls (DDZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_11_05_00",
+			"title": "Instrukcijas (INS)\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_11_07_00",
+			"title": "Rīkojumi (RĪK)\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_11_09_00",
+			"title": "Cita darba drošības informācija (CDI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_00_00",
+			"title": "Objekta nodošana ekspluatācijā\r",
+			"show": true,
+			"level": 1,
+			"level1": "13",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_01_00",
+			"title": "Akti (AKT)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_03_00",
+			"title": "Apliecinājumi (APL)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_05_00",
+			"title": "Atbilstības deklarācijas (ADK)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_07_00",
+			"title": "Atzinumi (ATZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_09_00",
+			"title": "Autoruzraudzības žurnāls (AUZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_11_00",
+			"title": "Būvdarbu žurnāls (BDZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_13_00",
+			"title": "Būvuzrauga pārskats par būvuzraudzības plāna izpildi ( BPP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_15_00",
+			"title": "Izpilduzmērījumi (IZU)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "15",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_17_00",
+			"title": "Kadastra uzmērījumi (KUZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "17",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_19_00",
+			"title": "Sertifikāti (SER)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "19",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_21_00",
+			"title": "Testēšanas pārskats (TPA)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "21",
+			"level3": "00"
+		},
+		{
+			"code": "BI_13_23_00",
+			"title": "Cita objekta nodošanas informācija (COI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "23",
+			"level3": "00"
+		},
+		{
+			"code": "BI_15_00_00",
+			"title": "Sertifiāti\r",
+			"show": true,
+			"level": 1,
+			"level1": "15",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_15_01_00",
+			"title": "BREEM\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_15_03_00",
+			"title": "Energoefektivitātes sertifikāts (ENS)\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_15_05_00",
+			"title": "LEED\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_15_07_00",
+			"title": "Cit sertifikāti (SCI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_00_00",
+			"title": "Ekspluatācija\r",
+			"show": true,
+			"level": 1,
+			"level1": "17",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_01_00",
+			"title": "Aktīvu reģistrs (AKR)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_03_00",
+			"title": "Ekspluatācijas pasākuma plāns (EPP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_05_00",
+			"title": "Evakuācijas plāns (EVP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_07_00",
+			"title": "Garantijas dokumentācija (GAD)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_09_00",
+			"title": "Iekārtu lietošanas instrukcijas (ILI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_11_00",
+			"title": "Tehniskā pase (THP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BI_17_13_00",
+			"title": "Cita ekspluatācijas informācija (CEI)\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BI_19_00_00",
+			"title": "Datu kopas\r",
+			"show": true,
+			"level": 1,
+			"level1": "19",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BI_19_01_00",
+			"title": "Datu bāze (DBZ)\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BI_19_03_00",
+			"title": "Datu lapas (DLP)\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BI_19_05_00",
+			"title": "Citi dati (CID)",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "05",
+			"level3": "00"
+		}
+	]
+}

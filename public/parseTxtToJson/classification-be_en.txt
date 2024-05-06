@@ -1,0 +1,517 @@
+BE_01_00_00_00	Būvlaukuma sagatavošana (DOP)	Description	Measurements
+BE_01_01_00_00	Būvlaukuma nožogojums
+BE_01_01_01_00	Žogi
+BE_01_01_03_00	Vārti
+BE_01_01_05_00	Barjeras
+BE_01_01_07_00	Turniketi
+BE_01_03_00_00	Esošās apbūves un koku aizsardzība
+BE_01_03_01_00	Esošo būvju aizsargsistēmas
+BE_01_03_03_00	Esošo inženierkomunikāciju aizsargsistēmas
+BE_01_03_05_00	Koku un koku sakņu aizsargsistēmas
+BE_01_05_00_00	Pagaidu segumi
+BE_01_05_01_00	Pagaidu iebrauktuve
+BE_01_05_03_00	Pagaidu ceļi
+BE_01_05_05_00	Pagaidu autosstāvieta
+BE_01_05_07_00	Būvmateriālu nokraušanas laukumi
+BE_01_05_09_00	Beramo būvmateriālu nokraušanas laukums
+BE_01_05_11_00	Riteņu mazgāšanas laukums
+BE_01_07_00_00	Pilsētiņas izveide
+BE_01_07_01_00	Būvlaukuma vadības telpas
+BE_01_07_03_00	Strādnieku telpas
+BE_01_07_05_00	Noliktavas telpas
+BE_01_07_07_00	Apsardzes telpas
+BE_01_07_09_00	Sanitātās telpas
+BE_01_07_11_00	Tualetes
+BE_01_07_13_00	Smēķēšanas vietas
+BE_01_09_00_00	Būvlaukuma aprīkojums
+BE_01_09_01_00	Sastatņu sistēmas
+BE_01_09_03_00	Kustību organizācijas sistēmas
+BE_01_09_05_00	Darba drošības aprīkojums
+BE_01_09_07_00	Ugunsdrošības aprīkojums
+BE_01_09_09_00	Informatīvais aprīkojums
+BE_01_09_11_00	Torņa celtņi un to aprīkojums
+BE_01_09_13_00	Būvgružu konteineri
+BE_01_11_00_00	Pagaidu inženiertīkli
+BE_01_11_01_00	Pagaidu elektroapgāde
+BE_01_11_03_00	Pagaidu apgaismojums
+BE_01_11_05_00	Pagaidu apsardzes signalizācija
+BE_01_11_07_00	Pagaidu ūdensapgāde
+BE_01_11_09_00	Pagaidu notekūdeņu novadīšana
+BE_01_13_00_00	Monitorings un uzraudzība
+BE_01_13_01_00	Esošo ēku monitorings
+BE_01_13_03_00	Koku monitorings
+BE_01_13_05_00	Būvlaukuma video monitorings
+BE_01_13_07_00	Ģeotehniskā uzraudzība
+BE_01_13_09_00	Ģeodēziskā uzraudzība
+BE_01_13_11_00	Strādnieku elektroniskā darba laika uzskaites sistēma
+BE_03_00_00_00	Demontējamās sistēmas
+BE_03_01_00_00	Demontējamās konstrukcijas
+BE_03_03_00_00	Demontējamie iekšējie inženiertīkli
+BE_03_05_00_00	Demontējamie teritorijas elementi
+BE_03_07_00_00	Demontējamās ailes un atvērumi
+BE_03_09_00_00	Cērtamie koki un krūmi
+BE_03_11_00_00	Citas demontējamās sistēmas
+BE_05_00_00_00	Zemes darbi
+BE_05_01_00_00	Ūdens samazināšana
+BE_05_03_00_00	Grunts stabilizācija
+BE_05_03_01_00	Rievsienas
+BE_05_03_03_00	Atbalstsienas
+BE_05_03_05_00	Gravitācijas siena
+BE_05_03_07_00	Berlīnes tipa atbalstsiena
+BE_05_03_09_00	Grunts enkuri, naglas
+BE_05_05_00_00	Norokamā grunts
+BE_05_05_01_00	Noņemā augsnes kārta
+BE_05_05_03_00	Izņemamā piesārņotā grunts
+BE_05_05_05_00	Izņemamā nederīgā grunts
+BE_05_05_07_00	Uz atbērtni pārvietojamā grunts
+BE_07_00_00_00	Būvkonstrukcijas (BK)
+BE_07_01_00_00	Pamatne
+BE_07_01_01_00	Pieberama pamatne
+BE_07_01_03_00	Ieklājama, betonējama pamatne
+BE_07_01_05_00	Cita pamatne
+BE_07_03_00_00	Grunts pastiprināšana
+BE_07_03_01_00	Cementēšana
+BE_07_03_03_00	Dinamiskā blīvēšana
+BE_07_03_05_00	Grunts pāļi
+BE_07_03_07_00	Grunts konsolidācija
+BE_07_03_09_00	Vibroflotācija
+BE_07_03_11_00	Cita pastiprināšana
+BE_07_05_00_00	Pāļi
+BE_07_05_01_00	Urbtie pāļi
+BE_07_05_03_00	Dzītie pāļi
+BE_07_05_05_00	Skrūvpāļi
+BE_07_05_07_00	Mikropāļi
+BE_07_05_09_00	Citi pāļi
+BE_07_07_00_00	Pamati
+BE_07_07_01_00	Monolītā dzelzsbetona (MDZB) pamati
+BE_07_07_03_00	Saliekamā dzelzsbetona (SDZB) pamati
+BE_07_07_05_00	Tērauda pamati
+BE_07_07_07_00	Mūra pamati
+BE_07_07_09_00	Citi pamati
+BE_07_09_00_00	Speciālie pamati
+BE_07_09_01_00	Kesoni
+BE_07_09_03_00	Citi speciālie pamati
+BE_07_11_00_00	Kolonnu bāzes
+BE_07_11_01_00	Monolītā dzelzsbetona (MDZB) kolonnu bāzes
+BE_07_11_03_00	Tērauda kolonnu bāzes
+BE_07_13_00_00	Kolonnas
+BE_07_13_01_00	Monolītā dzelzsbetona (MDZB) kolonnas
+BE_07_13_03_00	Saliekamā dzelzsbetona (SDZB) kolonnas
+BE_07_13_05_00	Tērauda kolonnas
+BE_07_13_07_00	Tēraudbetona kolonnas
+BE_07_13_09_00	Koka kolonnas
+BE_07_13_11_00	Mūra kolonnas
+BE_07_13_13_00	Alumīnija kolonnas
+BE_07_13_15_00	Kompozīta kolonnas
+BE_07_13_17_00	Stikla kolonnas
+BE_07_13_19_00	Citas kolonnas
+BE_07_15_00_00	Sienas
+BE_07_15_01_00	Monolītā dzelzsbetona (MDZB) sienas
+BE_07_15_03_00	Saliekamā dzelzsbetona (SDZB) sienas
+BE_07_15_05_00	Koka sienas
+BE_07_15_07_00	Krusteniski līmēta koka (CLT) sienas
+BE_07_15_09_00	Mūra sienas
+BE_07_15_11_00	Kompozīta sienas
+BE_07_15_13_00	Citas sienas
+BE_07_17_00_00	Pārsedzes
+BE_07_17_01_00	Monolītā dzelzsbetona (MDZB) pārsedzes
+BE_07_17_03_00	Saliekamā dzelzsbetona (SDZB) pārsedzes
+BE_07_17_05_00	Tērauda pārsedzes
+BE_07_17_07_00	Koka pārsedzes
+BE_07_17_09_00	Mūra pārsedzes
+BE_07_17_11_00	Kompozīta pārsedzes
+BE_07_17_13_00	Citas pārsedzes
+BE_07_19_00_00	Pārsegumi
+BE_07_19_01_00	Monolītā dzelzsbetona (MDZB) pārsegumi
+BE_07_19_03_00	Saliekamā dzelzsbetona (SDZB) pārsegumi
+BE_07_19_05_00	Tērauda pārsegumi
+BE_07_19_07_00	Tēraudbetona pārsegumi
+BE_07_19_09_00	Koka pārsegumi
+BE_07_19_11_00	Krusteniski līmēta koka (CLT) pārsegumi
+BE_07_19_13_00	Alumīnija pārsegumi
+BE_07_19_15_00	Kompozīta pārsegumi
+BE_07_19_17_00	Stikla pārsegumi
+BE_07_19_19_00	Citi pārsegumi
+BE_07_21_00_00	Sijas
+BE_07_21_01_00	Monolītā dzelzsbetona (MDZB) sijas
+BE_07_21_03_00	Saliekamā dzelzsbetona (SDZB) sijas
+BE_07_21_05_00	Tērauda sijas
+BE_07_21_07_00	Tēraudbetona sijas
+BE_07_21_09_00	Koka sijas
+BE_07_21_11_00	Alumīnija sijas
+BE_07_21_13_00	Kompozīta sijas
+BE_07_21_15_00	Stikla sijas
+BE_07_21_17_00	Citas sijas
+BE_07_23_00_00	Kopnes, režģotas konstrukcijas
+BE_07_23_01_00	Monolītā dzelzsbetona (MDZB) kopnes, režģotas konstrukcijas
+BE_07_23_03_00	Saliekamā dzelzsbetona (SDZB) kopnes, režģotas konstrukcijas
+BE_07_23_05_00	Tērauda kopnes, režģotas konstrukcijas
+BE_07_23_07_00	Tēraudbetona kopnes, režģotas konstrukcijas
+BE_07_23_09_00	Koka kopnes, režģotas konstrukcijas
+BE_07_23_11_00	Alumīnija kopnes, režģotas konstrukcijas
+BE_07_23_13_00	Kompozīta kopnes, režģotas konstrukcijas
+BE_07_23_15_00	Citas kopnes, režģotas konstrukcijas
+BE_07_25_00_00	Čaulas un membrānas
+BE_07_25_01_00	Monolītā dzelzsbetona (MDZB) čaulas
+BE_07_25_03_00	Saliekamā dzelzsbetona (SDZB) čaulas
+BE_07_25_05_00	Tērauda čaulas
+BE_07_25_07_00	Tēraudbetona čaulas
+BE_07_25_09_00	Koka čaulas
+BE_07_25_11_00	Krusteniski līmēta koka (CLT) čaulas
+BE_07_25_13_00	Alumīnija čaulas
+BE_07_25_15_00	Kompozīta čaulas
+BE_07_25_17_00	Stikla čaulas
+BE_07_25_19_00	Citas čaulas
+BE_07_27_00_00	Saites un troses
+BE_07_27_01_00	Monolītā dzelzsbetona (MDZB) saites
+BE_07_27_03_00	Saliekamā dzelzsbetona (SDZB) saites
+BE_07_27_05_00	Tērauda saites
+BE_07_27_07_00	Koka saites
+BE_07_27_09_00	Kompozīta saites
+BE_07_27_11_00	Citas saites
+BE_07_29_00_00	Kāpnes un pandusi
+BE_07_29_01_00	Monolītā dzelzsbetona (MDZB) kāpnes un pandusi
+BE_07_29_03_00	Saliekamā dzelzsbetona (SDZB) kāpnes un pandusi
+BE_07_29_05_00	Tērauda kāpnes un pandusi
+BE_07_29_07_00	Tēraudbetona kāpnes un pandusi
+BE_07_29_09_00	Koka kāpnes un pandusi
+BE_07_29_11_00	Alumīnija kāpnes un pandusi
+BE_07_29_13_00	Kompozīta kāpnes un pandusi
+BE_07_29_15_00	Stikla kāpnes un pandusi
+BE_07_29_17_00	Citas kāpnes un pandusi
+BE_07_31_00_00	Iekārtu, AR apakškonstrukcijas
+BE_07_31_01_00	Iekārtu rāmji, apakškonstrukcijas 
+BE_07_31_03_00	Citas apakškonstrukcijas 
+BE_07_33_00_00	Stiprinājumi
+BE_07_33_01_00	Mehāniski stiprinājumi
+BE_07_33_03_00	Ķīmiski stiprinājumi
+BE_07_33_05_00	Metināti stiprinājumi
+BE_07_33_07_00	Iebetonējami stiprinājumi
+BE_07_35_00_00	Šuves un to materiāli
+BE_07_35_01_00	Deformācijas šuves un to materiāli
+BE_07_35_03_00	Hidroizolācijas šuves un to materiāli
+BE_07_35_05_00	Termoizolācijas šuves un to materiāli
+BE_07_35_07_00	Skaņas izolācijas šuves un to materiāli
+BE_07_35_09_00	Spriegumu izlīdzināšanas šuves un to materiāli
+BE_07_35_11_00	Darba šuves un to materiāli
+BE_07_37_00_00	Pagaidu konstrukcijas
+BE_07_37_01_00	Pagaidu stutes
+BE_07_37_03_00	Pagaidu atgāžņi
+BE_07_37_05_00	Pagaidu rāmji
+BE_09_00_00_00	Arhitektūras risinājumi (AR)
+BE_09_01_00_00	Grīdas
+BE_09_01_01_00	Grīdas uz grunts
+BE_09_01_03_00	Grīdas uz pārseguma
+BE_09_01_05_00	Paceltās grīdas
+BE_09_01_07_00	Terašu, balkonu grīdas
+BE_09_03_00_00	Griesti
+BE_09_03_01_00	Griesti piekārtie
+BE_09_03_03_00	Nostieptie griesti
+BE_09_05_00_00	Jumti
+BE_09_05_01_00	Jumta klājs
+BE_09_05_03_00	Jumta pamatne
+BE_09_05_05_00	Jumtu aprīkojums
+BE_09_05_07_00	Uzjumteņi
+BE_09_07_00_00	Ārsienas
+BE_09_07_01_00	Karkasa ārsienas 
+BE_09_07_03_00	Piekārtās ārsienas 
+BE_09_07_05_00	Mūrētās ārsienas 
+BE_09_07_07_00	Cokolsienas
+BE_09_07_09_00	Pagrabstāva ārsienas
+BE_09_09_00_00	Starpsienas
+BE_09_09_01_00	Karkasa starpsienas
+BE_09_09_03_00	Mūra starpsienas
+BE_09_09_05_00	Stiklotās starpsienas
+BE_09_11_00_00	Ailu aizpildījums
+BE_09_11_01_00	Logi
+BE_09_11_03_00	Durvis
+BE_09_11_05_00	Lūkas
+BE_09_11_07_00	Vārti
+BE_09_13_00_00	Fasādes
+BE_09_13_01_00	Karkasa fasādes
+BE_09_13_03_00	Apmestās fasādes
+BE_09_13_05_00	Piekārtās fasādes
+BE_09_13_07_00	Mūrētās fasādes
+BE_09_13_09_00	Stiklotās  fasādes sistēmas
+BE_09_13_11_00	Fasāžu aprīkojums
+BE_09_15_00_00	Margas
+BE_09_15_01_00	Balkonu margas
+BE_09_15_03_00	Jumta margas
+BE_09_15_05_00	Kāpņu un pandusu margas
+BE_09_15_07_00	Ātrija margas
+BE_09_17_00_00	Aprīkojums
+BE_09_17_01_00	Lieveņi
+BE_09_17_03_00	Krāsnis, kamīni
+BE_09_17_05_00	Cits aprīkojums
+BE_11_00_00_00	Interjers (IN)
+BE_11_01_00_00	Apdare
+BE_11_01_01_00	Grīdas apdare
+BE_11_01_03_00	Griestu apdare
+BE_11_01_05_00	Sienu apdare
+BE_11_01_07_00	Ailu apdare
+BE_11_01_09_00	Līstes
+BE_11_01_11_00	Citi apdares elementi
+BE_11_03_00_00	Apdares aprīkojums
+BE_11_03_01_00	Grīdas aprīkojums
+BE_11_03_03_00	Griestu aprīkojums
+BE_11_03_05_00	Sienu aprīkojums
+BE_11_03_07_00	Ailu aprīkojums
+BE_11_05_00_00	Telpu aprīkojums
+BE_11_05_01_00	Sanmezgla aprīkojums
+BE_11_05_03_00	Virtuves aprīkojums
+BE_11_05_05_00	Biroja telpu aprīkojums
+BE_11_05_07_00	Dzīvojamās telpas aprīkojums
+BE_11_05_09_00	Tehnisko telpu aprīkojums
+BE_11_05_11_00	Komerctelpu aprīkojums
+BE_11_05_13_00	Citu telpu aprīkojums
+BE_11_07_00_00	Mēbeles
+BE_11_07_01_00	Sanmezgla mēbeles
+BE_11_07_03_00	Virtuves mēbeles
+BE_11_07_05_00	Biroja mēbeles
+BE_11_07_07_00	Dzīvojamo telpu mēbeles
+BE_11_07_09_00	Tehnisko telpu mēbeles
+BE_11_07_11_00	Komerctelpu mēbeles
+BE_11_07_13_00	Citu telpu mēbeles
+BE_11_09_00_00	Tehnika
+BE_11_09_01_00	Sanmezgla tehnika
+BE_11_09_03_00	Virtuves tehnika
+BE_11_09_05_00	Biroja tehnika
+BE_11_09_07_00	Dzīvojamo telpu tehnika
+BE_11_09_09_00	Tehnisko telpu tehnika
+BE_11_09_11_00	Komerctelpu tehnika
+BE_11_09_13_00	Citu telpu tehnika
+BE_13_00_00_00	Labiekārtojums un apzaļumošana (TS-L)
+BE_13_01_00_00	Segumi
+BE_13_01_01_00	Oļu segumi
+BE_13_01_03_00	Mulčas segumi
+BE_13_01_05_00	Auglīgās augsnes segumi
+BE_13_01_07_00	Zālājs
+BE_13_01_09_00	Segumu pamatnes
+BE_13_01_11_00	Segumi virs grunts
+BE_13_01_13_00	Segumi virs pārsegumiem
+BE_13_03_00_00	Seguma papildelementi
+BE_13_03_01_00	Apmales
+BE_13_03_03_00	Segumu salaidumi
+BE_13_03_05_00	Ūdens novadīšanas elementi
+BE_13_03_07_00	Citi seguma papildelementi
+BE_13_05_00_00	Aprīkojums
+BE_13_05_01_00	Atkritumu urnas
+BE_13_05_03_00	Velosipēdu statīvi
+BE_13_05_05_00	Soli
+BE_13_05_07_00	Stendi
+BE_13_05_09_00	Masti
+BE_13_05_11_00	Sporta laukumi
+BE_13_05_13_00	Bērnu rotaļu laukums
+BE_13_05_15_00	Cits aprīkojums
+BE_13_07_00_00	Nožogojums
+BE_13_07_01_00	Žogs
+BE_13_07_03_00	Vārti
+BE_13_07_05_00	Automātiski paceļamā barjera
+BE_13_07_07_00	Atbalstsienas
+BE_13_09_00_00	Āra kāpnes un pandusi
+BE_13_09_01_00	Kāpnes
+BE_13_09_03_00	Pandusi
+BE_13_11_00_00	Apstādījumi
+BE_13_11_01_00	Koki
+BE_13_11_03_00	Krūmi
+BE_13_11_05_00	Augi
+BE_13_11_07_00	Citi apstādījumi
+BE_15_00_00_00	Teritorijas ceļi un laukumi (TS-CD)
+BE_15_01_00_00	Segumi
+BE_15_01_01_00	Asfaltbetona segumi
+BE_15_01_03_00	Betona segumi
+BE_15_01_05_00	Bruģakmens segumi
+BE_15_01_07_00	Zālājs
+BE_15_01_09_00	Stiprināts zālājs
+BE_15_01_11_00	Citi segumi
+BE_15_03_00_00	Satiksmes organizēšanas elementi
+BE_15_03_01_00	Ceļa zīmes
+BE_15_03_03_00	Horizontālie apzīmējumi
+BE_15_03_05_00	Luksofori
+BE_15_05_00_00	Seguma papildelementi
+BE_15_05_01_00	Apmales
+BE_15_05_03_00	Segumu salaidumi
+BE_15_05_05_00	Ūdens novadīšanas elementi
+BE_15_05_07_00	Citi seguma papildelementi
+BE_15_07_00_00	Norobežojošie elementi
+BE_15_07_01_00	Barjeras
+BE_15_07_03_00	Stabi
+BE_17_00_00_00	Gaisa vadu sistēmas
+BE_17_01_00_00	Dūmu nosūce
+BE_17_01_01_00	Dūmu un karstuma izvades sistēma
+BE_17_01_03_00	Gaisa virsspiediena sistēmu
+BE_17_01_05_00	Citas dūmu nosūces sistēmas
+BE_17_03_00_00	Ventilācijas sistēmas
+BE_17_03_01_00	Telpu ventilācijas sistēmas
+BE_17_03_01_01	Centralizētā mehāniskā ventilācijas sistēma
+BE_17_03_01_03	Dabīgā ventilācijas sistēma
+BE_17_03_01_05	Mehāniskā nosūces sistēma
+BE_17_03_01_07	Mehāniskā pieplūdes sistēma
+BE_17_03_01_09	Sanitārā mezgla ventilācijas sistēma
+BE_17_03_01_11	Vietējā nosūces sistēma
+BE_17_03_01_13	Virtuves ventilācijas sistēma
+BE_17_03_01_15	Citas telpu ventilācijas sistēmas
+BE_17_03_03_00	Tvaiku nosūces sistēmas
+BE_17_03_05_00	Industriālās tvaiku nosūces sistēmas
+BE_17_03_07_00	Autostāvvietu ventilācijas sistēma
+BE_17_03_09_00	Citas ventilācijas sistēmas
+BE_17_05_00_00	Citas gaisa vadu sistēmas
+BE_19_00_00_00	Cauruļvadu sistēmas
+BE_19_01_00_00	Apkures sistēmas
+BE_19_01_01_00	Apkures sistēmas
+BE_19_01_03_00	Zemgrīdas apkures sistēmas
+BE_19_01_05_00	Sniega un ledus kausēšanas sistēmas
+BE_19_01_07_00	Siltumsūkņu sistēmas
+BE_19_01_09_00	Citas apkures sistēmas
+BE_19_03_00_00	Klimata kontroles sistēmas
+BE_19_03_01_00	Centralizētā kondicionēšanas sistēma
+BE_19_03_03_00	Lokālā kondicionēšaas sistēma
+BE_19_03_05_00	Citas klimata kontroles sistēmas
+BE_19_05_00_00	Aukstumapgādes sistēmas
+BE_19_05_01_00	Aukstumapgādes sistēmas
+BE_19_05_03_00	Aukstumkameru sistēmas
+BE_19_05_05_00	Aukstumnoliktavu sistēmas
+BE_19_05_07_00	Citas aukstumapgādes sistēmas
+BE_19_07_00_00	Ūdensapgādes sistēmas - iekšējās
+BE_19_07_01_00	Aukstā ūdens apgādes sistēmas
+BE_19_07_03_00	Karstā ūdens apgādes sistēmas
+BE_19_07_05_00	Ūdens sagatavošanas sistēmas
+BE_19_07_07_00	Laistīšanas sistēmas
+BE_19_07_09_00	Dekoratīvo ūdens objektu sistēmas
+BE_19_07_11_00	Citas ūdensapgādes sistēmas
+BE_19_09_00_00	Kanalizācijas sistēmas - iekšējās
+BE_19_09_01_00	Kondensāta kanalizācijas sistēmas
+BE_19_09_03_00	Rūpnieciskās kanalizācijas sistēmas
+BE_19_09_05_00	Sadzīves kanalizācijas sistēmas
+BE_19_09_07_00	Virszemes ūdens uztveršanas sistēmas
+BE_19_09_07_01	Lietus ūdens kanalizācijas sistēmas
+BE_19_09_07_03	Notekūdeņu drenāžas sistēmas
+BE_19_09_09_00	Citas iekšējās kanalizācijas sistēmas
+BE_19_11_00_00	Ugunsdzēsības sistēmas
+BE_19_11_01_00	Automātiskās ūdens ugunsdzēsības sistēmas
+BE_19_11_03_00	Gāzes ugunsdzēsības sistēmas
+BE_19_11_05_00	Pulvera ugunsdzēsības sistēmas
+BE_19_11_07_00	Putu ugunsdzēsības sistēmas
+BE_19_11_09_00	Ugunsdzēsības pārvietojamais aprīkojums
+BE_19_11_11_00	Ūdens ugunsdzēsības sistēmas
+BE_19_11_13_00	Citas ugunsdzēsības sistēmas
+BE_19_13_00_00	Gāzes apgāde sistēmas
+BE_19_13_01_00	Kurināmās gāzes apgāde-iekšējā
+BE_19_13_01_01	Dabasgāzes iekšējo gāzesvadu sistēma
+BE_19_13_01_03	Sašķidrinātās naftas gāzes iekšējo gāzesvadu sistēma
+BE_19_13_01_05	Citas kurināmās gāzes apgādes sistēmas
+BE_19_13_03_00	Kurināmās gāzes apgāde-ārējā 
+BE_19_13_03_01	Dabasgāzes ārējo gāzesvadu sistēma
+BE_19_13_03_03	Sašķidrinātās naftas gāzes ārējo gāzesvadu sistēma
+BE_19_13_03_05	Citas kurināmās gāzes apgādes sistēmas
+BE_19_13_05_00	Vakuuma sistēmas
+BE_19_13_07_00	Industriālās gāzu apgādes sistēmas
+BE_19_13_09_00	Laboratorijas gāzu apgādes sistēmas
+BE_19_13_11_00	Medicīnas gāzu apgādes sistēmas
+BE_19_13_13_00	Citas gāzes apgādes sistēmas
+BE_19_15_00_00	Tvaika apgādes sistēmas
+BE_19_17_00_00	Degvielas ieguves, apstrādes un uzglabāšanas sistēmas
+BE_19_19_00_00	Degvielas apgādes sistēmas
+BE_19_21_00_00	Industriālo šķidrumu apgādes sistēmas
+BE_19_23_00_00	Gāzes ieguves, apstrādes un uzglabāšanas sistēmas
+BE_19_25_00_00	Siltumapgādes sistēmas - ārējās
+BE_19_25_01_00	Laukumu siltumapgādes sistēmas
+BE_19_25_03_00	Visparējās siltumapgādes sistēma
+BE_19_25_05_00	Siltumsūkņu sistēmas
+BE_19_25_07_00	Citas siltumapgādes sistēmas
+BE_19_27_00_00	Apūdeņošanas sistēmas
+BE_19_29_00_00	Ūdensapgāde un kanalizācija-ārējā 
+BE_19_29_01_00	Ūdens ieguves, apstrādes un uzglabāšanas sistēmas
+BE_19_29_01_01	Ūdens ieguves sistēmas
+BE_19_29_01_03	Ūdens apstrādes sistēmas
+BE_19_29_01_05	Ūdens attīrīšanas sistēma
+BE_19_29_01_07	Ūdens dezinfekcijas sistēmas
+BE_19_29_03_00	Ūdens uzglabāšanas sistēma
+BE_19_29_05_00	Aukstā ūdens apgādes sistēmas
+BE_19_29_07_00	Karstā ūdens apgādes sistēmas
+BE_19_29_09_00	Ūdens kvalitātes uzraudzības sistēmas
+BE_19_29_11_00	Laistīšanas sistēmas
+BE_19_29_13_00	Dekoratīvo ūdens objektu sistēmas
+BE_19_29_15_00	Citas ārējās ūdensapgādes sistēmas
+BE_19_31_00_00	Ūdensapgāde un kanalizācija-ārējā 
+BE_19_31_01_00	Ārējās notekūdeņu un kanalizācijas sistēma
+BE_19_31_03_00	Revīzijas aku sistēmas
+BE_19_31_05_00	Zem zemes ūdens uztveršanas sistēmas
+BE_19_31_07_00	Zemes drenāžas sistēmas
+BE_19_31_09_00	Notekūdeņu sistēmas
+BE_19_31_11_00	Notekūdeņu uzglabāšanas un attīrīšanas sistēma
+BE_19_31_13_00	Notekūdeņu filtrācijas sistēmas
+BE_19_31_15_00	Notekūdeņu nosēdināšanas sistēmas
+BE_19_31_17_00	Smaku kontroles sistēma
+BE_19_31_19_00	Aerācijas sistēmas
+BE_19_31_21_00	Nostādināšanas sistēmas
+BE_19_31_23_00	Lietus ūdens kanalizācijas tīkli 
+BE_19_31_25_00	Citas cauruļvadu sistēmas
+BE_19_31_27_00	Kabeļu sistēmas
+BE_19_31_29_00	Nostādināšanas sistēmas
+BE_19_33_00_00	Lietus ūdens kanalizācijas tīkli 
+BE_19_35_00_00	Citas cauruļvadu sistēmas
+BE_21_00_00_00	Kabeļu sistēmas
+BE_21_01_00_00	Iekšējās elektroapgādes sistēmas
+BE_21_01_01_00	Apgaismojuma sistēmas
+BE_21_01_03_00	Autouzlādes sistēmas
+BE_21_01_05_00	Avārijas apgaismojuma sistēmas
+BE_21_01_07_00	Elektroenerģijas ražošanas sistēmas
+BE_21_01_09_00	Pārvades tīklu sistēmas
+BE_21_01_11_00	Zemējuma sistēmas
+BE_21_01_13_00	Zibensaizsardzības sistēmas
+BE_21_01_15_00	Citas iekšējās elektroapgādes sistēmas
+BE_21_03_00_00	Ārējās elektroapgādes sistēmas
+BE_21_03_01_00	Apgaismojuma sistēmas
+BE_21_03_03_00	Autouzlādes sistēmas
+BE_21_03_05_00	Elektroenerģijas ražošanas sistēmas
+BE_21_03_07_00	Pārvades tīklu sistēmas - augstsprieguma
+BE_21_03_09_00	Pārvades tīklu sistēmas - zemsprieguma
+BE_21_03_11_00	Zemējuma sistēmas
+BE_21_03_13_00	Zibensaizsardzības sistēmas
+BE_21_03_15_00	Citas ārējās elektroapgādes sistēmas
+BE_21_05_00_00	Elektronisko sakaru, drošības un kontroles sistēmas
+BE_21_05_01_00	Elektronisko sakaru sistēmas
+BE_21_05_01_01	Centralizētās izziņošanas sistēmas
+BE_21_05_01_03	Elektronisko sakaru inženiertīkli sistēmas
+BE_21_05_01_05	Sarunu iekārtu sistēmas
+BE_21_05_01_07	Citas elektronisko sakaru sistēmas
+BE_21_05_03_00	Apsardzes sistēmas
+BE_21_05_03_01	Apsardzes signalizācijas sistēmas
+BE_21_05_03_03	Drošības pārbaudes sistēmas
+BE_21_05_03_05	Novērošanas sistēmas
+BE_21_05_03_07	Piekļuves kontroles sistēmas
+BE_21_05_03_09	Citas apsardzes sistēmas
+BE_21_05_05_00	Drošības un apziņošanas sistēmas
+BE_21_05_05_01	Gāzes noplūdes noteikšanas sistēmas
+BE_21_05_05_03	Izsaukumu signalizācijas sistēmas
+BE_21_05_05_05	Šķidrumu noplūdes noteikšanas sistēmas
+BE_21_05_05_07	Citas drošības un apziņošanas sistēmas
+BE_21_05_07_00	Vides uzraudzības sistēmas
+BE_21_05_07_01	Civilās trauksmes apziņošanas sistēmas
+BE_21_05_07_03	Gāzes noplūdes noteikšanas sistēmas
+BE_21_05_07_05	Meteoroloģiskās novērošanas sistēmas
+BE_21_05_07_07	Piejaukumu noteikšanas sistēmas
+BE_21_05_07_09	Citas vides uzraudzības sistēmas
+BE_21_05_09_00	Vadības un automatizācijas sistēmas
+BE_21_05_09_01	Iekārtu vadības un automatizācijas sistēmas
+BE_21_05_09_03	Konstrukciju uzraudzības sistēmas 
+BE_21_05_09_05	Skaitītāju un sensoru sistēmas
+BE_21_05_09_07	Transporta kustības vadības sistēmas
+BE_21_05_09_09	Citas vadības un automatizācijas sistēmas
+BE_21_05_11_00	Reģistrācijas un biļešu pārvaldības sistēmas
+BE_21_05_13_00	Citas elektronisko sakaru, drošības un kontroles sistēmas
+BE_21_07_00_00	Ārējās elektronisko sakaru sistēmas
+BE_21_07_01_00	Elektronisko sakaru inženiertīklu sistēmas
+BE_21_07_03_00	Signalizācijas sistēmas
+BE_21_07_05_00	Vadības un automatizācijas sistēmas
+BE_21_07_07_00	Citas ārējās elektronisko sakaru sistēmas
+BE_21_09_00_00	Ugunsdzēsības sistēmas
+BE_21_09_01_00	Ugunsdzēsības automātikas sistēmas 
+BE_21_09_03_00	Ugunsgrēka atklāšanas un trauksmes signalizācijas sistēmas
+BE_21_11_00_00	Citas kabeļu sistēmas
+BE_23_00_00	Tehnoloģija 
+BE_23_01_00	Tehnoloģiskais aprīkojums (TN)
+BE_23_01_01	Transportēšanas sistēmas
+BE_23_01_03	Stacionarās iekārtas
+BE_23_01_05	Cits tehnoloģiskais aprīkojums

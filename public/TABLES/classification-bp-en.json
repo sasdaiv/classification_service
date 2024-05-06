@@ -1,0 +1,590 @@
+{
+	"payload": {
+		"filters": {
+			"level1": [
+				"01",
+				"03",
+				"05",
+				"07",
+				"09",
+				"11",
+				"13",
+				"15",
+				"17",
+				"19",
+				"21",
+				"23",
+				"25",
+				"27",
+				"29",
+				"31",
+				"33",
+				"35",
+				"37",
+				"39",
+				"41",
+				"43",
+				"45",
+				"47",
+				"49",
+				"51",
+				"53",
+				"55",
+				"57",
+				"59",
+				"61",
+				"63",
+				"65",
+				"67",
+				"69"
+			],
+			"level2": [
+				"00",
+				"01",
+				"03",
+				"05",
+				"07",
+				"09",
+				"11",
+				"13",
+				"15",
+				"17",
+				"19",
+				"21",
+				"23",
+				"25",
+				"27",
+				"29",
+				"31",
+				"33"
+			],
+			"level3": ["00"]
+		},
+		"maxLevel": 3,
+		"tab": "BP"
+	},
+	"rows": [
+		{
+			"code": "BP_01_00_00",
+			"title": "Būvobjekta uzturēšanas darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "01",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_01_01_00",
+			"title": "Apsargāšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BP_01_03_00",
+			"title": "Būvlaukuma uzkopšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BP_01_05_00",
+			"title": "Konstrukciju tīrīšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BP_01_07_00",
+			"title": "Teritorijas uzkopšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_00_00",
+			"title": "Būvlaukuma uzmērīšanas un testēšanas darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "03",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_01_00",
+			"title": "Būvlaukuma sākotnējā uzmērīšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_03_00",
+			"title": "Ēkas tehniskā uzraudzība\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_05_00",
+			"title": "Ģeometriskie uzmērījumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "05",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_07_00",
+			"title": "Grunts izmeklējumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "07",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_09_00",
+			"title": "Konstrukciju tehniskie uzmērījumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "09",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_11_00",
+			"title": "Vides un ekoloģiskās pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "11",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_13_00",
+			"title": "Bīstamo materiālu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "13",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_15_00",
+			"title": "Būves tehnisko rādījumu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "15",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_17_00",
+			"title": "Būves sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "17",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_19_00",
+			"title": "Cauruļvadu sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "19",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_21_00",
+			"title": "Apkures, dzesēšanas un klimata kontroles sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "21",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_23_00",
+			"title": "Ventilācijas un dzesēšanas sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "23",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_25_00",
+			"title": "Elektrisko sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "25",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_27_00",
+			"title": "Elektrisko saziņas sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "27",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_29_00",
+			"title": "Elektrisko drošības sistēmu pārbaudes\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "29",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_31_00",
+			"title": "Mehānisko drošības sistēmu pārbaude\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "31",
+			"level3": "00"
+		},
+		{
+			"code": "BP_03_33_00",
+			"title": "Plaisu uzraudzība\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "33",
+			"level3": "00"
+		},
+		{
+			"code": "BP_05_00_00",
+			"title": "Veidņošana\r",
+			"show": true,
+			"level": 1,
+			"level1": "05",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_07_00_00",
+			"title": "Betonēšanas darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "07",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_07_01_00",
+			"title": "Betona apkopšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BP_07_03_00",
+			"title": "Plaisu uzraudzība\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "03",
+			"level3": "00"
+		},
+		{
+			"code": "BP_09_00_00",
+			"title": "Zemes darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "09",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_11_00_00",
+			"title": "Mūrēšanas darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "11",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_13_00_00",
+			"title": "Namdaru darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "13",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_15_00_00",
+			"title": "Metāla konstrukciju darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "15",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_17_00_00",
+			"title": "Jumta darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "17",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_19_00_00",
+			"title": "Santehnikas darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "19",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_21_00_00",
+			"title": "Skārda darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "21",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_23_00_00",
+			"title": "Krāsošanas darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "23",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_25_00_00",
+			"title": "Korozijaizsardzības darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "25",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_27_00_00",
+			"title": "Sausie būvdarbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "27",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_29_00_00",
+			"title": "Apkures sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "29",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_31_00_00",
+			"title": "Gāzes sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "31",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_33_00_00",
+			"title": "Ūdens sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "33",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_35_00_00",
+			"title": "Kanalizācijas sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "35",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_37_00_00",
+			"title": "Ugundrošības risinājumu uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "37",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_39_00_00",
+			"title": "Ugunsdzēsības sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "39",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_41_00_00",
+			"title": "Zemējuma sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "41",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_43_00_00",
+			"title": "Pazemes spēka sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "43",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_45_00_00",
+			"title": "Vidējā sprieguma kabeļu sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "45",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_47_00_00",
+			"title": "Zema sprieguma kabeļu sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "47",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_49_00_00",
+			"title": "Drošības un rezerves enerģijas sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "49",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_51_00_00",
+			"title": "Apgaismojuma uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "51",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_53_00_00",
+			"title": "Avārijas apgaismojuma uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "53",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_55_00_00",
+			"title": "Sakaru sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "55",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_57_00_00",
+			"title": "Drošības sistēmu uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "57",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_59_00_00",
+			"title": "Piekļuves kontroles sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "59",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_61_00_00",
+			"title": "Liftu uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "61",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_63_00_00",
+			"title": "Ēkas vadības sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "63",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_65_00_00",
+			"title": "Ventilācijas un kondicionēšanas sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "65",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_67_00_00",
+			"title": "Dzesēšanas sistēmas uzstādīšana\r",
+			"show": true,
+			"level": 1,
+			"level1": "67",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BP_69_00_00",
+			"title": "Ietvju un laukumu būvniecība",
+			"show": true,
+			"level": 1,
+			"level1": "69",
+			"level2": "00",
+			"level3": "00"
+		}
+	]
+}

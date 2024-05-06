@@ -1,0 +1,74 @@
+{
+	"title": "LVS1048",
+	"tableTitle": {
+		"at": "Apbūvēta telpas",
+		"bk": "Būvniecības komplekss",
+		"bv": "Būvniecības vienība",
+		"be": "Būvelements",
+		"bm": "Būvizstrādājumi",
+		"ba": "Būvniecības aprīkojums",
+		"pk": "Profesiju klasifikators",
+		"bi": "Būvniecības informācija",
+		"bp": "Būvniecības process",
+		"pv": "Pārvaldība"
+	},
+	"reservedRights": "2024 | Visas tiesības aizsargātas.",
+	"questionsSectionTitle": "Bieži uzdotie jautājumi:",
+
+	"Classification": "Klasifikācija",
+	"Welcome": "Laipni lūdzam",
+	"Search": "Meklēšana",
+	"About": "Par projektu",
+	"Download the tables": "Lejupielādēt tabulas",
+	"Download older versions of the tables": "Lejupielādēt vecākas tabulu versijas",
+	"Unified construction classification": "Vienota būvniecības klasifikācija",
+	"Search the tables...": "Meklēt tabulas...",
+	"Browse the tables": "Pārlūkot tabulas",
+	"published": "publicēts",
+	"Under development": "Izstrādē",
+
+	"Tabs": "Cilnes",
+	"Results per page:": "Rezultāti lapā:",
+	"Page": "Lapa",
+	"of": "no",
+	"Table": "Tabula",
+	"Code": "Kods",
+	"Title": "Virsraksts",
+	"Hide All": "Paslēpt visu",
+	"Show All": "Rādīt visu",
+	"No results...": "Nav rezultātu...",
+
+	"team": {
+		"title": "Mūsu maza komanda, kas ir mūsu panākumu pamatā",
+		"subtitle1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus.",
+		"subtitle2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"findUs": {
+		"title": "Ja jums ir nepieciešams mūs atrast:",
+		"subtitle1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus.",
+		"subtitle2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"stayConnected": {
+		"title": "Palieciet savienotie",
+		"subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"suggestionForm": {
+		"title": "Atstājiet mums rindu",
+		"subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium provident eligendi neque quam, impedit aliquam unde ab aliquid nam, vitae molestiae. Dolores, sunt voluptates odit provident eum eos minus."
+	},
+	"Name": "Vārds",
+	"Email": "E-pasts",
+	"Message": "Ziņa",
+	"Submit": "Iesniegt",
+
+	"noRowsAreFound": "Nav atrastas rindas, notīriet filtrus vai mēģiniet vēlreiz vēlāk...",
+	"tableIsNotReady": "Šī tabula vēl nav gatava, lūdzu, mēģiniet vēlreiz vēlāk...",
+	"searchByTitle": "Meklēt pēc nosaukuma...",
+	"rowTitle": "Rindas detaļas",
+	"level": "Līmenis",
+
+	"footerLeft": "Tīmekļa portāls, darbināts ar",
+	"footerRight": "dizains",
+
+	"Description": "Apraksts"
+}

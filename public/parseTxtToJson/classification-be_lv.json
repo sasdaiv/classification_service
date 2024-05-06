@@ -1,0 +1,5217 @@
+{
+	"payload": {
+		"filters": {
+			"level1": ["01", "03", "05", "07", "09", "11", "13", "15", "17", "19", "21", "23"],
+			"level2": [
+				"00",
+				"01",
+				"03",
+				"05",
+				"07",
+				"09",
+				"11",
+				"13",
+				"15",
+				"17",
+				"19",
+				"21",
+				"23",
+				"25",
+				"27",
+				"29",
+				"31",
+				"33",
+				"35",
+				"37"
+			],
+			"level3": [
+				"00",
+				"01",
+				"03",
+				"05",
+				"07",
+				"09",
+				"11",
+				"13",
+				"15",
+				"17",
+				"19",
+				"21",
+				"23",
+				"25",
+				"27",
+				"29"
+			],
+			"level4": ["00", "01", "03", "05", "07", "09", "11", "13", "15"]
+		},
+		"maxLevel": 4,
+		"tab": "BE"
+	},
+	"rows": [
+		{
+			"code": "BE_01_00_00_00",
+			"title": "Būvlaukuma sagatavošana (DOP)",
+			"show": true,
+			"level": 1,
+			"level1": "01",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_01_00_00",
+			"title": "Būvlaukuma nožogojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_01_01_00",
+			"title": "Žogi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_01_03_00",
+			"title": "Vārti\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_01_05_00",
+			"title": "Barjeras\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_01_07_00",
+			"title": "Turniketi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_03_00_00",
+			"title": "Esošās apbūves un koku aizsardzība\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_03_01_00",
+			"title": "Esošo būvju aizsargsistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_03_03_00",
+			"title": "Esošo inženierkomunikāciju aizsargsistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_03_05_00",
+			"title": "Koku un koku sakņu aizsargsistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_00_00",
+			"title": "Pagaidu segumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_01_00",
+			"title": "Pagaidu iebrauktuve\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_03_00",
+			"title": "Pagaidu ceļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_05_00",
+			"title": "Pagaidu autosstāvieta\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_07_00",
+			"title": "Būvmateriālu nokraušanas laukumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_09_00",
+			"title": "Beramo būvmateriālu nokraušanas laukums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_05_11_00",
+			"title": "Riteņu mazgāšanas laukums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "05",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_00_00",
+			"title": "Pilsētiņas izveide\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_01_00",
+			"title": "Būvlaukuma vadības telpas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_03_00",
+			"title": "Strādnieku telpas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_05_00",
+			"title": "Noliktavas telpas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_07_00",
+			"title": "Apsardzes telpas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_09_00",
+			"title": "Sanitātās telpas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_11_00",
+			"title": "Tualetes\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_07_13_00",
+			"title": "Smēķēšanas vietas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "07",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_00_00",
+			"title": "Būvlaukuma aprīkojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_01_00",
+			"title": "Sastatņu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_03_00",
+			"title": "Kustību organizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_05_00",
+			"title": "Darba drošības aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_07_00",
+			"title": "Ugunsdrošības aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_09_00",
+			"title": "Informatīvais aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_11_00",
+			"title": "Torņa celtņi un to aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_09_13_00",
+			"title": "Būvgružu konteineri\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "09",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_11_00_00",
+			"title": "Pagaidu inženiertīkli\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_11_01_00",
+			"title": "Pagaidu elektroapgāde\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_11_03_00",
+			"title": "Pagaidu apgaismojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_11_05_00",
+			"title": "Pagaidu apsardzes signalizācija\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_11_07_00",
+			"title": "Pagaidu ūdensapgāde\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_11_09_00",
+			"title": "Pagaidu notekūdeņu novadīšana\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "11",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_00_00",
+			"title": "Monitorings un uzraudzība\r",
+			"show": true,
+			"level": 2,
+			"level1": "01",
+			"level2": "13",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_01_00",
+			"title": "Esošo ēku monitorings\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "13",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_03_00",
+			"title": "Koku monitorings\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "13",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_05_00",
+			"title": "Būvlaukuma video monitorings\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "13",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_07_00",
+			"title": "Ģeotehniskā uzraudzība\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "13",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_09_00",
+			"title": "Ģeodēziskā uzraudzība\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "13",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_01_13_11_00",
+			"title": "Strādnieku elektroniskā darba laika uzskaites sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "01",
+			"level2": "13",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_00_00_00",
+			"title": "Demontējamās sistēmas\r",
+			"show": true,
+			"level": 1,
+			"level1": "03",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_01_00_00",
+			"title": "Demontējamās konstrukcijas\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_03_00_00",
+			"title": "Demontējamie iekšējie inženiertīkli\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_05_00_00",
+			"title": "Demontējamie teritorijas elementi\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_07_00_00",
+			"title": "Demontējamās ailes un atvērumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_09_00_00",
+			"title": "Cērtamie koki un krūmi\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_03_11_00_00",
+			"title": "Citas demontējamās sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "03",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_00_00_00",
+			"title": "Zemes darbi\r",
+			"show": true,
+			"level": 1,
+			"level1": "05",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_01_00_00",
+			"title": "Ūdens samazināšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_03_00_00",
+			"title": "Grunts stabilizācija\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_03_01_00",
+			"title": "Rievsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_03_03_00",
+			"title": "Atbalstsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_03_05_00",
+			"title": "Gravitācijas siena\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_03_07_00",
+			"title": "Berlīnes tipa atbalstsiena\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "03",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_03_09_00",
+			"title": "Grunts enkuri, naglas\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "03",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_05_00_00",
+			"title": "Norokamā grunts\r",
+			"show": true,
+			"level": 2,
+			"level1": "05",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_05_01_00",
+			"title": "Noņemā augsnes kārta\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_05_03_00",
+			"title": "Izņemamā piesārņotā grunts\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_05_05_00",
+			"title": "Izņemamā nederīgā grunts\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_05_05_07_00",
+			"title": "Uz atbērtni pārvietojamā grunts\r",
+			"show": true,
+			"level": 3,
+			"level1": "05",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_00_00_00",
+			"title": "Būvkonstrukcijas (BK)\r",
+			"show": true,
+			"level": 1,
+			"level1": "07",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_01_00_00",
+			"title": "Pamatne\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_01_01_00",
+			"title": "Pieberama pamatne\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_01_03_00",
+			"title": "Ieklājama, betonējama pamatne\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_01_05_00",
+			"title": "Cita pamatne\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_00_00",
+			"title": "Grunts pastiprināšana\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_01_00",
+			"title": "Cementēšana\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_03_00",
+			"title": "Dinamiskā blīvēšana\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_05_00",
+			"title": "Grunts pāļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_07_00",
+			"title": "Grunts konsolidācija\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "03",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_09_00",
+			"title": "Vibroflotācija\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "03",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_03_11_00",
+			"title": "Cita pastiprināšana\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "03",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_05_00_00",
+			"title": "Pāļi\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_05_01_00",
+			"title": "Urbtie pāļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_05_03_00",
+			"title": "Dzītie pāļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_05_05_00",
+			"title": "Skrūvpāļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_05_07_00",
+			"title": "Mikropāļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_05_09_00",
+			"title": "Citi pāļi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "05",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_07_00_00",
+			"title": "Pamati\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_07_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) pamati\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_07_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) pamati\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_07_05_00",
+			"title": "Tērauda pamati\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_07_07_00",
+			"title": "Mūra pamati\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_07_09_00",
+			"title": "Citi pamati\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "07",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_09_00_00",
+			"title": "Speciālie pamati\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_09_01_00",
+			"title": "Kesoni\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_09_03_00",
+			"title": "Citi speciālie pamati\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_11_00_00",
+			"title": "Kolonnu bāzes\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_11_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) kolonnu bāzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "11",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_11_03_00",
+			"title": "Tērauda kolonnu bāzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "11",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_00_00",
+			"title": "Kolonnas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "13",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_05_00",
+			"title": "Tērauda kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_07_00",
+			"title": "Tēraudbetona kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_09_00",
+			"title": "Koka kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_11_00",
+			"title": "Mūra kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_13_00",
+			"title": "Alumīnija kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_15_00",
+			"title": "Kompozīta kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_17_00",
+			"title": "Stikla kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "17",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_13_19_00",
+			"title": "Citas kolonnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "13",
+			"level3": "19",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_00_00",
+			"title": "Sienas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "15",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_05_00",
+			"title": "Koka sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_07_00",
+			"title": "Krusteniski līmēta koka (CLT) sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_09_00",
+			"title": "Mūra sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_11_00",
+			"title": "Kompozīta sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_15_13_00",
+			"title": "Citas sienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "15",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_00_00",
+			"title": "Pārsedzes\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "17",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_05_00",
+			"title": "Tērauda pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_07_00",
+			"title": "Koka pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_09_00",
+			"title": "Mūra pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_11_00",
+			"title": "Kompozīta pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_17_13_00",
+			"title": "Citas pārsedzes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "17",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_00_00",
+			"title": "Pārsegumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "19",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_05_00",
+			"title": "Tērauda pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_07_00",
+			"title": "Tēraudbetona pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_09_00",
+			"title": "Koka pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_11_00",
+			"title": "Krusteniski līmēta koka (CLT) pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_13_00",
+			"title": "Alumīnija pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_15_00",
+			"title": "Kompozīta pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_17_00",
+			"title": "Stikla pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "17",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_19_19_00",
+			"title": "Citi pārsegumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "19",
+			"level3": "19",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_00_00",
+			"title": "Sijas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "21",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_05_00",
+			"title": "Tērauda sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_07_00",
+			"title": "Tēraudbetona sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_09_00",
+			"title": "Koka sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_11_00",
+			"title": "Alumīnija sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_13_00",
+			"title": "Kompozīta sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_15_00",
+			"title": "Stikla sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_21_17_00",
+			"title": "Citas sijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "21",
+			"level3": "17",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_00_00",
+			"title": "Kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "23",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_05_00",
+			"title": "Tērauda kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_07_00",
+			"title": "Tēraudbetona kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_09_00",
+			"title": "Koka kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_11_00",
+			"title": "Alumīnija kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_13_00",
+			"title": "Kompozīta kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_23_15_00",
+			"title": "Citas kopnes, režģotas konstrukcijas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "23",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_00_00",
+			"title": "Čaulas un membrānas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "25",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_05_00",
+			"title": "Tērauda čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_07_00",
+			"title": "Tēraudbetona čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_09_00",
+			"title": "Koka čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_11_00",
+			"title": "Krusteniski līmēta koka (CLT) čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_13_00",
+			"title": "Alumīnija čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_15_00",
+			"title": "Kompozīta čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_17_00",
+			"title": "Stikla čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "17",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_25_19_00",
+			"title": "Citas čaulas\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "25",
+			"level3": "19",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_00_00",
+			"title": "Saites un troses\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "27",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) saites\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "27",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) saites\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "27",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_05_00",
+			"title": "Tērauda saites\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "27",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_07_00",
+			"title": "Koka saites\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "27",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_09_00",
+			"title": "Kompozīta saites\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "27",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_27_11_00",
+			"title": "Citas saites\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "27",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_00_00",
+			"title": "Kāpnes un pandusi\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "29",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_01_00",
+			"title": "Monolītā dzelzsbetona (MDZB) kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_03_00",
+			"title": "Saliekamā dzelzsbetona (SDZB) kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_05_00",
+			"title": "Tērauda kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_07_00",
+			"title": "Tēraudbetona kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_09_00",
+			"title": "Koka kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_11_00",
+			"title": "Alumīnija kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_13_00",
+			"title": "Kompozīta kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_15_00",
+			"title": "Stikla kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_29_17_00",
+			"title": "Citas kāpnes un pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "29",
+			"level3": "17",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_31_00_00",
+			"title": "Iekārtu, AR apakškonstrukcijas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "31",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_31_01_00",
+			"title": "Iekārtu rāmji, apakškonstrukcijas \r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "31",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_31_03_00",
+			"title": "Citas apakškonstrukcijas \r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "31",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_33_00_00",
+			"title": "Stiprinājumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "33",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_33_01_00",
+			"title": "Mehāniski stiprinājumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "33",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_33_03_00",
+			"title": "Ķīmiski stiprinājumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "33",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_33_05_00",
+			"title": "Metināti stiprinājumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "33",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_33_07_00",
+			"title": "Iebetonējami stiprinājumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "33",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_00_00",
+			"title": "Šuves un to materiāli\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "35",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_01_00",
+			"title": "Deformācijas šuves un to materiāli\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "35",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_03_00",
+			"title": "Hidroizolācijas šuves un to materiāli\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "35",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_05_00",
+			"title": "Termoizolācijas šuves un to materiāli\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "35",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_07_00",
+			"title": "Skaņas izolācijas šuves un to materiāli\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "35",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_09_00",
+			"title": "Spriegumu izlīdzināšanas šuves un to materiāli\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "35",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_35_11_00",
+			"title": "Darba šuves un to materiāli\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "35",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_37_00_00",
+			"title": "Pagaidu konstrukcijas\r",
+			"show": true,
+			"level": 2,
+			"level1": "07",
+			"level2": "37",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_37_01_00",
+			"title": "Pagaidu stutes\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "37",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_37_03_00",
+			"title": "Pagaidu atgāžņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "37",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_07_37_05_00",
+			"title": "Pagaidu rāmji\r",
+			"show": true,
+			"level": 3,
+			"level1": "07",
+			"level2": "37",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_00_00_00",
+			"title": "Arhitektūras risinājumi (AR)\r",
+			"show": true,
+			"level": 1,
+			"level1": "09",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_01_00_00",
+			"title": "Grīdas\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_01_01_00",
+			"title": "Grīdas uz grunts\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_01_03_00",
+			"title": "Grīdas uz pārseguma\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_01_05_00",
+			"title": "Paceltās grīdas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_01_07_00",
+			"title": "Terašu, balkonu grīdas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_03_00_00",
+			"title": "Griesti\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_03_01_00",
+			"title": "Griesti piekārtie\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_03_03_00",
+			"title": "Nostieptie griesti\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_05_00_00",
+			"title": "Jumti\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_05_01_00",
+			"title": "Jumta klājs\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_05_03_00",
+			"title": "Jumta pamatne\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_05_05_00",
+			"title": "Jumtu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_05_07_00",
+			"title": "Uzjumteņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_07_00_00",
+			"title": "Ārsienas\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_07_01_00",
+			"title": "Karkasa ārsienas \r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_07_03_00",
+			"title": "Piekārtās ārsienas \r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_07_05_00",
+			"title": "Mūrētās ārsienas \r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_07_07_00",
+			"title": "Cokolsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_07_09_00",
+			"title": "Pagrabstāva ārsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "07",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_09_00_00",
+			"title": "Starpsienas\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_09_01_00",
+			"title": "Karkasa starpsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_09_03_00",
+			"title": "Mūra starpsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_09_05_00",
+			"title": "Stiklotās starpsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "09",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_11_00_00",
+			"title": "Ailu aizpildījums\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_11_01_00",
+			"title": "Logi\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "11",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_11_03_00",
+			"title": "Durvis\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "11",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_11_05_00",
+			"title": "Lūkas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "11",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_11_07_00",
+			"title": "Vārti\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "11",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_00_00",
+			"title": "Fasādes\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "13",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_01_00",
+			"title": "Karkasa fasādes\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "13",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_03_00",
+			"title": "Apmestās fasādes\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "13",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_05_00",
+			"title": "Piekārtās fasādes\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "13",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_07_00",
+			"title": "Mūrētās fasādes\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "13",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_09_00",
+			"title": "Stiklotās  fasādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "13",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_13_11_00",
+			"title": "Fasāžu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "13",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_15_00_00",
+			"title": "Margas\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "15",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_15_01_00",
+			"title": "Balkonu margas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "15",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_15_03_00",
+			"title": "Jumta margas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "15",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_15_05_00",
+			"title": "Kāpņu un pandusu margas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "15",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_15_07_00",
+			"title": "Ātrija margas\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "15",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_17_00_00",
+			"title": "Aprīkojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "09",
+			"level2": "17",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_17_01_00",
+			"title": "Lieveņi\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "17",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_17_03_00",
+			"title": "Krāsnis, kamīni\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "17",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_09_17_05_00",
+			"title": "Cits aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "09",
+			"level2": "17",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_00_00_00",
+			"title": "Interjers (IN)\r",
+			"show": true,
+			"level": 1,
+			"level1": "11",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_00_00",
+			"title": "Apdare\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_01_00",
+			"title": "Grīdas apdare\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_03_00",
+			"title": "Griestu apdare\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_05_00",
+			"title": "Sienu apdare\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_07_00",
+			"title": "Ailu apdare\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_09_00",
+			"title": "Līstes\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "01",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_01_11_00",
+			"title": "Citi apdares elementi\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "01",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_03_00_00",
+			"title": "Apdares aprīkojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_03_01_00",
+			"title": "Grīdas aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_03_03_00",
+			"title": "Griestu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_03_05_00",
+			"title": "Sienu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_03_07_00",
+			"title": "Ailu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "03",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_00_00",
+			"title": "Telpu aprīkojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_01_00",
+			"title": "Sanmezgla aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_03_00",
+			"title": "Virtuves aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_05_00",
+			"title": "Biroja telpu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_07_00",
+			"title": "Dzīvojamās telpas aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_09_00",
+			"title": "Tehnisko telpu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_11_00",
+			"title": "Komerctelpu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_05_13_00",
+			"title": "Citu telpu aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "05",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_00_00",
+			"title": "Mēbeles\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_01_00",
+			"title": "Sanmezgla mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_03_00",
+			"title": "Virtuves mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_05_00",
+			"title": "Biroja mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_07_00",
+			"title": "Dzīvojamo telpu mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_09_00",
+			"title": "Tehnisko telpu mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_11_00",
+			"title": "Komerctelpu mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_07_13_00",
+			"title": "Citu telpu mēbeles\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "07",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_00_00",
+			"title": "Tehnika\r",
+			"show": true,
+			"level": 2,
+			"level1": "11",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_01_00",
+			"title": "Sanmezgla tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_03_00",
+			"title": "Virtuves tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_05_00",
+			"title": "Biroja tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_07_00",
+			"title": "Dzīvojamo telpu tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_09_00",
+			"title": "Tehnisko telpu tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_11_00",
+			"title": "Komerctelpu tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_11_09_13_00",
+			"title": "Citu telpu tehnika\r",
+			"show": true,
+			"level": 3,
+			"level1": "11",
+			"level2": "09",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_00_00_00",
+			"title": "Labiekārtojums un apzaļumošana (TS-L)\r",
+			"show": true,
+			"level": 1,
+			"level1": "13",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_00_00",
+			"title": "Segumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_01_00",
+			"title": "Oļu segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_03_00",
+			"title": "Mulčas segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_05_00",
+			"title": "Auglīgās augsnes segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_07_00",
+			"title": "Zālājs\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_09_00",
+			"title": "Segumu pamatnes\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_11_00",
+			"title": "Segumi virs grunts\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_01_13_00",
+			"title": "Segumi virs pārsegumiem\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "01",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_03_00_00",
+			"title": "Seguma papildelementi\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_03_01_00",
+			"title": "Apmales\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_03_03_00",
+			"title": "Segumu salaidumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_03_05_00",
+			"title": "Ūdens novadīšanas elementi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_03_07_00",
+			"title": "Citi seguma papildelementi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "03",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_00_00",
+			"title": "Aprīkojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_01_00",
+			"title": "Atkritumu urnas\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_03_00",
+			"title": "Velosipēdu statīvi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_05_00",
+			"title": "Soli\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_07_00",
+			"title": "Stendi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_09_00",
+			"title": "Masti\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_11_00",
+			"title": "Sporta laukumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_13_00",
+			"title": "Bērnu rotaļu laukums\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_05_15_00",
+			"title": "Cits aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "05",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_07_00_00",
+			"title": "Nožogojums\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_07_01_00",
+			"title": "Žogs\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_07_03_00",
+			"title": "Vārti\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_07_05_00",
+			"title": "Automātiski paceļamā barjera\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_07_07_00",
+			"title": "Atbalstsienas\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_09_00_00",
+			"title": "Āra kāpnes un pandusi\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_09_01_00",
+			"title": "Kāpnes\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_09_03_00",
+			"title": "Pandusi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_11_00_00",
+			"title": "Apstādījumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "13",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_11_01_00",
+			"title": "Koki\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "11",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_11_03_00",
+			"title": "Krūmi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "11",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_11_05_00",
+			"title": "Augi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "11",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_13_11_07_00",
+			"title": "Citi apstādījumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "13",
+			"level2": "11",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_00_00_00",
+			"title": "Teritorijas ceļi un laukumi (TS-CD)\r",
+			"show": true,
+			"level": 1,
+			"level1": "15",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_00_00",
+			"title": "Segumi\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_01_00",
+			"title": "Asfaltbetona segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_03_00",
+			"title": "Betona segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_05_00",
+			"title": "Bruģakmens segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_07_00",
+			"title": "Zālājs\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_09_00",
+			"title": "Stiprināts zālājs\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "01",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_01_11_00",
+			"title": "Citi segumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "01",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_03_00_00",
+			"title": "Satiksmes organizēšanas elementi\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_03_01_00",
+			"title": "Ceļa zīmes\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_03_03_00",
+			"title": "Horizontālie apzīmējumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_03_05_00",
+			"title": "Luksofori\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_05_00_00",
+			"title": "Seguma papildelementi\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_05_01_00",
+			"title": "Apmales\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_05_03_00",
+			"title": "Segumu salaidumi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_05_05_00",
+			"title": "Ūdens novadīšanas elementi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_05_07_00",
+			"title": "Citi seguma papildelementi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_07_00_00",
+			"title": "Norobežojošie elementi\r",
+			"show": true,
+			"level": 2,
+			"level1": "15",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_07_01_00",
+			"title": "Barjeras\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_15_07_03_00",
+			"title": "Stabi\r",
+			"show": true,
+			"level": 3,
+			"level1": "15",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_00_00_00",
+			"title": "Gaisa vadu sistēmas\r",
+			"show": true,
+			"level": 1,
+			"level1": "17",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_01_00_00",
+			"title": "Dūmu nosūce\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_01_01_00",
+			"title": "Dūmu un karstuma izvades sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_01_03_00",
+			"title": "Gaisa virsspiediena sistēmu\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_01_05_00",
+			"title": "Citas dūmu nosūces sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_03_00_00",
+			"title": "Ventilācijas sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_03_01_00",
+			"title": "Telpu ventilācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_03_01_01",
+			"title": "Centralizētā mehāniskā ventilācijas sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "01"
+		},
+		{
+			"code": "BE_17_03_01_03",
+			"title": "Dabīgā ventilācijas sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "03"
+		},
+		{
+			"code": "BE_17_03_01_05",
+			"title": "Mehāniskā nosūces sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "05"
+		},
+		{
+			"code": "BE_17_03_01_07",
+			"title": "Mehāniskā pieplūdes sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "07"
+		},
+		{
+			"code": "BE_17_03_01_09",
+			"title": "Sanitārā mezgla ventilācijas sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "09"
+		},
+		{
+			"code": "BE_17_03_01_11",
+			"title": "Vietējā nosūces sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "11"
+		},
+		{
+			"code": "BE_17_03_01_13",
+			"title": "Virtuves ventilācijas sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "13"
+		},
+		{
+			"code": "BE_17_03_01_15",
+			"title": "Citas telpu ventilācijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "17",
+			"level2": "03",
+			"level3": "01",
+			"level4": "15"
+		},
+		{
+			"code": "BE_17_03_03_00",
+			"title": "Tvaiku nosūces sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_03_05_00",
+			"title": "Industriālās tvaiku nosūces sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_03_07_00",
+			"title": "Autostāvvietu ventilācijas sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "03",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_03_09_00",
+			"title": "Citas ventilācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "17",
+			"level2": "03",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_17_05_00_00",
+			"title": "Citas gaisa vadu sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "17",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_00_00_00",
+			"title": "Cauruļvadu sistēmas\r",
+			"show": true,
+			"level": 1,
+			"level1": "19",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_01_00_00",
+			"title": "Apkures sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_01_01_00",
+			"title": "Apkures sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_01_03_00",
+			"title": "Zemgrīdas apkures sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_01_05_00",
+			"title": "Sniega un ledus kausēšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_01_07_00",
+			"title": "Siltumsūkņu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_01_09_00",
+			"title": "Citas apkures sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "01",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_03_00_00",
+			"title": "Klimata kontroles sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_03_01_00",
+			"title": "Centralizētā kondicionēšanas sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_03_03_00",
+			"title": "Lokālā kondicionēšaas sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_03_05_00",
+			"title": "Citas klimata kontroles sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_05_00_00",
+			"title": "Aukstumapgādes sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_05_01_00",
+			"title": "Aukstumapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_05_03_00",
+			"title": "Aukstumkameru sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_05_05_00",
+			"title": "Aukstumnoliktavu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_05_07_00",
+			"title": "Citas aukstumapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_00_00",
+			"title": "Ūdensapgādes sistēmas - iekšējās\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_01_00",
+			"title": "Aukstā ūdens apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_03_00",
+			"title": "Karstā ūdens apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_05_00",
+			"title": "Ūdens sagatavošanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_07_00",
+			"title": "Laistīšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_09_00",
+			"title": "Dekoratīvo ūdens objektu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "07",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_07_11_00",
+			"title": "Citas ūdensapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "07",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_09_00_00",
+			"title": "Kanalizācijas sistēmas - iekšējās\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_09_01_00",
+			"title": "Kondensāta kanalizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_09_03_00",
+			"title": "Rūpnieciskās kanalizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_09_05_00",
+			"title": "Sadzīves kanalizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "09",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_09_07_00",
+			"title": "Virszemes ūdens uztveršanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "09",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_09_07_01",
+			"title": "Lietus ūdens kanalizācijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "09",
+			"level3": "07",
+			"level4": "01"
+		},
+		{
+			"code": "BE_19_09_07_03",
+			"title": "Notekūdeņu drenāžas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "09",
+			"level3": "07",
+			"level4": "03"
+		},
+		{
+			"code": "BE_19_09_09_00",
+			"title": "Citas iekšējās kanalizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "09",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_00_00",
+			"title": "Ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_01_00",
+			"title": "Automātiskās ūdens ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_03_00",
+			"title": "Gāzes ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_05_00",
+			"title": "Pulvera ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_07_00",
+			"title": "Putu ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_09_00",
+			"title": "Ugunsdzēsības pārvietojamais aprīkojums\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_11_00",
+			"title": "Ūdens ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_11_13_00",
+			"title": "Citas ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "11",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_00_00",
+			"title": "Gāzes apgāde sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "13",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_01_00",
+			"title": "Kurināmās gāzes apgāde-iekšējā\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_01_01",
+			"title": "Dabasgāzes iekšējo gāzesvadu sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "13",
+			"level3": "01",
+			"level4": "01"
+		},
+		{
+			"code": "BE_19_13_01_03",
+			"title": "Sašķidrinātās naftas gāzes iekšējo gāzesvadu sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "13",
+			"level3": "01",
+			"level4": "03"
+		},
+		{
+			"code": "BE_19_13_01_05",
+			"title": "Citas kurināmās gāzes apgādes sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "13",
+			"level3": "01",
+			"level4": "05"
+		},
+		{
+			"code": "BE_19_13_03_00",
+			"title": "Kurināmās gāzes apgāde-ārējā \r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_03_01",
+			"title": "Dabasgāzes ārējo gāzesvadu sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "13",
+			"level3": "03",
+			"level4": "01"
+		},
+		{
+			"code": "BE_19_13_03_03",
+			"title": "Sašķidrinātās naftas gāzes ārējo gāzesvadu sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "13",
+			"level3": "03",
+			"level4": "03"
+		},
+		{
+			"code": "BE_19_13_03_05",
+			"title": "Citas kurināmās gāzes apgādes sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "13",
+			"level3": "03",
+			"level4": "05"
+		},
+		{
+			"code": "BE_19_13_05_00",
+			"title": "Vakuuma sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_07_00",
+			"title": "Industriālās gāzu apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_09_00",
+			"title": "Laboratorijas gāzu apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_11_00",
+			"title": "Medicīnas gāzu apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_13_13_00",
+			"title": "Citas gāzes apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "13",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_15_00_00",
+			"title": "Tvaika apgādes sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "15",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_17_00_00",
+			"title": "Degvielas ieguves, apstrādes un uzglabāšanas sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "17",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_19_00_00",
+			"title": "Degvielas apgādes sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "19",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_21_00_00",
+			"title": "Industriālo šķidrumu apgādes sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "21",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_23_00_00",
+			"title": "Gāzes ieguves, apstrādes un uzglabāšanas sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "23",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_25_00_00",
+			"title": "Siltumapgādes sistēmas - ārējās\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "25",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_25_01_00",
+			"title": "Laukumu siltumapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "25",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_25_03_00",
+			"title": "Visparējās siltumapgādes sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "25",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_25_05_00",
+			"title": "Siltumsūkņu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "25",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_25_07_00",
+			"title": "Citas siltumapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "25",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_27_00_00",
+			"title": "Apūdeņošanas sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "27",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_00_00",
+			"title": "Ūdensapgāde un kanalizācija-ārējā \r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "29",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_01_00",
+			"title": "Ūdens ieguves, apstrādes un uzglabāšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_01_01",
+			"title": "Ūdens ieguves sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "29",
+			"level3": "01",
+			"level4": "01"
+		},
+		{
+			"code": "BE_19_29_01_03",
+			"title": "Ūdens apstrādes sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "29",
+			"level3": "01",
+			"level4": "03"
+		},
+		{
+			"code": "BE_19_29_01_05",
+			"title": "Ūdens attīrīšanas sistēma\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "29",
+			"level3": "01",
+			"level4": "05"
+		},
+		{
+			"code": "BE_19_29_01_07",
+			"title": "Ūdens dezinfekcijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "19",
+			"level2": "29",
+			"level3": "01",
+			"level4": "07"
+		},
+		{
+			"code": "BE_19_29_03_00",
+			"title": "Ūdens uzglabāšanas sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_05_00",
+			"title": "Aukstā ūdens apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_07_00",
+			"title": "Karstā ūdens apgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_09_00",
+			"title": "Ūdens kvalitātes uzraudzības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_11_00",
+			"title": "Laistīšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_13_00",
+			"title": "Dekoratīvo ūdens objektu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_29_15_00",
+			"title": "Citas ārējās ūdensapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "29",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_00_00",
+			"title": "Ūdensapgāde un kanalizācija-ārējā \r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "31",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_01_00",
+			"title": "Ārējās notekūdeņu un kanalizācijas sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_03_00",
+			"title": "Revīzijas aku sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_05_00",
+			"title": "Zem zemes ūdens uztveršanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_07_00",
+			"title": "Zemes drenāžas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_09_00",
+			"title": "Notekūdeņu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_11_00",
+			"title": "Notekūdeņu uzglabāšanas un attīrīšanas sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_13_00",
+			"title": "Notekūdeņu filtrācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_15_00",
+			"title": "Notekūdeņu nosēdināšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_17_00",
+			"title": "Smaku kontroles sistēma\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "17",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_19_00",
+			"title": "Aerācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "19",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_21_00",
+			"title": "Nostādināšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "21",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_23_00",
+			"title": "Lietus ūdens kanalizācijas tīkli \r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "23",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_25_00",
+			"title": "Citas cauruļvadu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "25",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_27_00",
+			"title": "Kabeļu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "27",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_31_29_00",
+			"title": "Nostādināšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "19",
+			"level2": "31",
+			"level3": "29",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_33_00_00",
+			"title": "Lietus ūdens kanalizācijas tīkli \r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "33",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_19_35_00_00",
+			"title": "Citas cauruļvadu sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "19",
+			"level2": "35",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_00_00_00",
+			"title": "Kabeļu sistēmas\r",
+			"show": true,
+			"level": 1,
+			"level1": "21",
+			"level2": "00",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_00_00",
+			"title": "Iekšējās elektroapgādes sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "21",
+			"level2": "01",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_01_00",
+			"title": "Apgaismojuma sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_03_00",
+			"title": "Autouzlādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_05_00",
+			"title": "Avārijas apgaismojuma sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_07_00",
+			"title": "Elektroenerģijas ražošanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_09_00",
+			"title": "Pārvades tīklu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_11_00",
+			"title": "Zemējuma sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_13_00",
+			"title": "Zibensaizsardzības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_01_15_00",
+			"title": "Citas iekšējās elektroapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "01",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_00_00",
+			"title": "Ārējās elektroapgādes sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "21",
+			"level2": "03",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_01_00",
+			"title": "Apgaismojuma sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_03_00",
+			"title": "Autouzlādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_05_00",
+			"title": "Elektroenerģijas ražošanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_07_00",
+			"title": "Pārvades tīklu sistēmas - augstsprieguma\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_09_00",
+			"title": "Pārvades tīklu sistēmas - zemsprieguma\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_11_00",
+			"title": "Zemējuma sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_13_00",
+			"title": "Zibensaizsardzības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_03_15_00",
+			"title": "Citas ārējās elektroapgādes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "03",
+			"level3": "15",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_00_00",
+			"title": "Elektronisko sakaru, drošības un kontroles sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "21",
+			"level2": "05",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_01_00",
+			"title": "Elektronisko sakaru sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_01_01",
+			"title": "Centralizētās izziņošanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "01",
+			"level4": "01"
+		},
+		{
+			"code": "BE_21_05_01_03",
+			"title": "Elektronisko sakaru inženiertīkli sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "01",
+			"level4": "03"
+		},
+		{
+			"code": "BE_21_05_01_05",
+			"title": "Sarunu iekārtu sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "01",
+			"level4": "05"
+		},
+		{
+			"code": "BE_21_05_01_07",
+			"title": "Citas elektronisko sakaru sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "01",
+			"level4": "07"
+		},
+		{
+			"code": "BE_21_05_03_00",
+			"title": "Apsardzes sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_03_01",
+			"title": "Apsardzes signalizācijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "03",
+			"level4": "01"
+		},
+		{
+			"code": "BE_21_05_03_03",
+			"title": "Drošības pārbaudes sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "03",
+			"level4": "03"
+		},
+		{
+			"code": "BE_21_05_03_05",
+			"title": "Novērošanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "03",
+			"level4": "05"
+		},
+		{
+			"code": "BE_21_05_03_07",
+			"title": "Piekļuves kontroles sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "03",
+			"level4": "07"
+		},
+		{
+			"code": "BE_21_05_03_09",
+			"title": "Citas apsardzes sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "03",
+			"level4": "09"
+		},
+		{
+			"code": "BE_21_05_05_00",
+			"title": "Drošības un apziņošanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_05_01",
+			"title": "Gāzes noplūdes noteikšanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "05",
+			"level4": "01"
+		},
+		{
+			"code": "BE_21_05_05_03",
+			"title": "Izsaukumu signalizācijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "05",
+			"level4": "03"
+		},
+		{
+			"code": "BE_21_05_05_05",
+			"title": "Šķidrumu noplūdes noteikšanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "05",
+			"level4": "05"
+		},
+		{
+			"code": "BE_21_05_05_07",
+			"title": "Citas drošības un apziņošanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "05",
+			"level4": "07"
+		},
+		{
+			"code": "BE_21_05_07_00",
+			"title": "Vides uzraudzības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_07_01",
+			"title": "Civilās trauksmes apziņošanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "07",
+			"level4": "01"
+		},
+		{
+			"code": "BE_21_05_07_03",
+			"title": "Gāzes noplūdes noteikšanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "07",
+			"level4": "03"
+		},
+		{
+			"code": "BE_21_05_07_05",
+			"title": "Meteoroloģiskās novērošanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "07",
+			"level4": "05"
+		},
+		{
+			"code": "BE_21_05_07_07",
+			"title": "Piejaukumu noteikšanas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "07",
+			"level4": "07"
+		},
+		{
+			"code": "BE_21_05_07_09",
+			"title": "Citas vides uzraudzības sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "07",
+			"level4": "09"
+		},
+		{
+			"code": "BE_21_05_09_00",
+			"title": "Vadības un automatizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "09",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_09_01",
+			"title": "Iekārtu vadības un automatizācijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "09",
+			"level4": "01"
+		},
+		{
+			"code": "BE_21_05_09_03",
+			"title": "Konstrukciju uzraudzības sistēmas \r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "09",
+			"level4": "03"
+		},
+		{
+			"code": "BE_21_05_09_05",
+			"title": "Skaitītāju un sensoru sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "09",
+			"level4": "05"
+		},
+		{
+			"code": "BE_21_05_09_07",
+			"title": "Transporta kustības vadības sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "09",
+			"level4": "07"
+		},
+		{
+			"code": "BE_21_05_09_09",
+			"title": "Citas vadības un automatizācijas sistēmas\r",
+			"show": true,
+			"level": 4,
+			"level1": "21",
+			"level2": "05",
+			"level3": "09",
+			"level4": "09"
+		},
+		{
+			"code": "BE_21_05_11_00",
+			"title": "Reģistrācijas un biļešu pārvaldības sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "11",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_05_13_00",
+			"title": "Citas elektronisko sakaru, drošības un kontroles sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "05",
+			"level3": "13",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_07_00_00",
+			"title": "Ārējās elektronisko sakaru sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "21",
+			"level2": "07",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_07_01_00",
+			"title": "Elektronisko sakaru inženiertīklu sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "07",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_07_03_00",
+			"title": "Signalizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "07",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_07_05_00",
+			"title": "Vadības un automatizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "07",
+			"level3": "05",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_07_07_00",
+			"title": "Citas ārējās elektronisko sakaru sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "07",
+			"level3": "07",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_09_00_00",
+			"title": "Ugunsdzēsības sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "21",
+			"level2": "09",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_09_01_00",
+			"title": "Ugunsdzēsības automātikas sistēmas \r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "09",
+			"level3": "01",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_09_03_00",
+			"title": "Ugunsgrēka atklāšanas un trauksmes signalizācijas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "21",
+			"level2": "09",
+			"level3": "03",
+			"level4": "00"
+		},
+		{
+			"code": "BE_21_11_00_00",
+			"title": "Citas kabeļu sistēmas\r",
+			"show": true,
+			"level": 2,
+			"level1": "21",
+			"level2": "11",
+			"level3": "00",
+			"level4": "00"
+		},
+		{
+			"code": "BE_23_00_00",
+			"title": "Tehnoloģija \r",
+			"show": true,
+			"level": 1,
+			"level1": "23",
+			"level2": "00",
+			"level3": "00"
+		},
+		{
+			"code": "BE_23_01_00",
+			"title": "Tehnoloģiskais aprīkojums (TN)\r",
+			"show": true,
+			"level": 2,
+			"level1": "23",
+			"level2": "01",
+			"level3": "00"
+		},
+		{
+			"code": "BE_23_01_01",
+			"title": "Transportēšanas sistēmas\r",
+			"show": true,
+			"level": 3,
+			"level1": "23",
+			"level2": "01",
+			"level3": "01"
+		},
+		{
+			"code": "BE_23_01_03",
+			"title": "Stacionarās iekārtas\r",
+			"show": true,
+			"level": 3,
+			"level1": "23",
+			"level2": "01",
+			"level3": "03"
+		},
+		{
+			"code": "BE_23_01_05",
+			"title": "Cits tehnoloģiskais aprīkojums",
+			"show": true,
+			"level": 3,
+			"level1": "23",
+			"level2": "01",
+			"level3": "05"
+		}
+	]
+}
